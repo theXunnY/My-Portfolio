@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root{
+  font-family: "Noto Sans", sans-serif;
+  background-color: rgb(24, 3, 23);
+  color: white;
+  /* --bg-image: url('/assets/bg.webp'); */
+}
+
+.bg-image {
+  background-image: url('src/assets/bg.webp');
+  
+  background-size: cover;
+  background-position: center;
+}
+
+
