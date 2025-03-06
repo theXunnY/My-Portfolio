@@ -41,7 +41,7 @@ export const PROJECTS = [
     title: "Role Based Access Control",
     description: "A full fledged java Spring boot project with backend implements Role-Based-Authentication combined with OAuth2 for secure management and access control It leverages Spring Security, Spring Data JPA, for authentication, authorization and user management. Also integrated with OAuth2 for easy third party login Google(or any OAuth2 provider) .",
 
-    techStack: ["React", "Node.js", "Express", "MongoDB"],
+    techStack: ["Thymeleaf", "Spring Boot", "Spring Security", "OAuth2", "JWT", "Postgresql"],
     imgSrc: project1,
     link: "https://github.com/theXunnY/RBAC-using-SpringBoot-and-OAuth2",
   },
@@ -58,7 +58,7 @@ export const PROJECTS = [
     title: "Portfolio Website",
     description:
     "A personal portfolio website showcasing projects and skills. Fully responsive and optimized for performance.",
-    techStack: ["React.js", "Tailwind CSS"],
+    techStack: ["React.js", "Tailwind CSS", "gsap"],
     imgSrc: project3,
     link: "/",
   },
