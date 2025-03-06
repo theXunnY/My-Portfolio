@@ -68,7 +68,7 @@ const Hero = () => {
           {PROFILE.role}
         </h2>
       </div>
-      <p className='hero-text max-w-2xl p-2 text-center text-xl tracking-tighter lg:text-2xl'>
+      <p className='hero-text max-w-2xl line p-2 text-center text-xl  tracking-normal lg:text-2xl'>
         {PROFILE.subheading}
       </p>
       <a href="/SunnY.pdf" target='_blank' rel='noopener noreferrer' download className='hero-btn mb-6 flex gap-1 rounded-full border border-pink-200/50 px-3 py-2 tracking-tighter'>
