@@ -32,7 +32,7 @@ export const PROFILE = {
   name: "SunnY Pawar",
   role: "Full Stack Developer",
   subheading:
-    "Computer science graduate with and internship experience of 10 month's in full-stack development ], I build efficient, scalable web applications. And currently seeking a full-time role to launch my career in This Awesome Field .",
+    "Computer science graduate with an internship experience of 10 month's in full-stack development, I build efficient, scalable web applications. And currently seeking a full-time role to launch my career in This Awesome Field .",
 };
 
 export const PROJECTS = [
