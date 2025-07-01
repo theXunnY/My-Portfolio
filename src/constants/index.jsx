@@ -143,7 +143,7 @@ export const SKILLS = [
 
 export const EXPERIENCES = [
   {
-    yearRange: "2023 - Present",
+    yearRange: "Aug 2024 - June 2025 ",
     role: "Full Stack Java developer Intern",
     company: " Qspiders.",
     description:"Completed an intensive internship focused on full stack Java development, gaining hands-on experience with front-end technologies (HTML, CSS, JavaScript, Bootstrap, Tailwind, etc) and back-end technologies (Java, Spring boot, Spring MVC, SQL, etc.)",
