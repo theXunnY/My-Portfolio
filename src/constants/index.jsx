@@ -4,6 +4,7 @@ import project3 from "../assets/project3.png";
 import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
+import project6 from "../assets/project7.png";
 
 import {
   RiHtml5Line,
@@ -45,8 +46,16 @@ export const PROJECTS = [
     imgSrc: project1,
     link: "https://github.com/theXunnY/RBAC-using-SpringBoot-and-OAuth2",
   },
-  {
+   {
     id: 2,
+    title: "Json Generator",
+    description:" A web app to design and generate custom JSON objects. Users can define nested schemas, generate mock data, and expose live API endpoints for integration(comming soon).",
+    techStack: ["React", "JavaScript", "Tailwind CSS", "vite"],
+    imgSrc: project7,
+    link: "https://json-generator-six.vercel.app/",
+  },
+  {
+    id: 3,
     title: "Spring boot crud API for Product and Categories (CRUD API)",
     description:" A Spring boot application for managing CRUD operations on Products and Categories with server side pagination, This API allows users to manage categories and products, where each product is associated with a specific category with the help of one to many mapping",
     techStack: ["Spring Boot", "Spring Data JPA", "PostgreSql", "Postman"],
@@ -54,7 +63,7 @@ export const PROJECTS = [
     link: "https://github.com/theXunnY/NiMap-Machine-Test",
   },
   {
-    id: 3,
+    id: 4,
     title: "Portfolio Website",
     description:
     "A personal portfolio website showcasing projects and skills. Fully responsive and optimized for performance.",
@@ -63,7 +72,7 @@ export const PROJECTS = [
     link: "/",
   },
   {
-    id: 4,
+    id: 5,
     title: "JOB Portal (In Progress)",
     description:"(In Progress) A ai based job portal where just by uploading our resume we get matching jobs ",
     techStack: ["Spring Boot", "React.js", "openAi API", "Apache Tiks", "Posgtrsql"],
@@ -71,7 +80,7 @@ export const PROJECTS = [
     link: "/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Task Management App (Backend Focus) ",
     description:"We can perform all CRUD operations on employee and task and we can also assign a particular task to a employee and we can delete that task or remove that employee, Using Hibernate Many-To-Many Bidirectional Mapping",
     techStack: ["Java", "Servlet", "JSP", "Hibernate", "Postgres"],
@@ -79,7 +88,7 @@ export const PROJECTS = [
     link: "https://github.com/theXunnY/TaskManagementUsingJavaServlet",
   },
   {
-    id: 6,
+    id: 7,
     title: "Task Management App (Console Based)",
     description:"A console based Java application to understand the core concepts of java,oop's, Collection framework, JDBC, Hibernate and relational mapping",
     techStack: ["Java","OOP's", "Collection Framework", "JDBC", "Hibernate", "SQL","Postgres"],
