@@ -17,6 +17,8 @@ import {
   RiDatabase2Line,
   RiGithubFill,
   RiSecurePaymentFill,
+  RiCodeAiFill,
+  RiAiGenerate,
 } from "@remixicon/react";
 import {
   RiCodeSSlashLine,
@@ -146,6 +148,10 @@ export const SKILLS = [
   {
     name: "GitHub",
     icon: <RiGithubFill className="text-gray-100" />,
+  },
+  {
+    name: "Gen AI",
+    icon: <RiCodeAiFill className="text-purple-400"/>,
   },
 
 ];
