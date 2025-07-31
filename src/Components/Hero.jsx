@@ -80,7 +80,7 @@ const Hero = () => {
         alt="profile" 
         width={500} 
         height="500" 
-        className='hero-img rounded-full border border-purple-300/20  transition-shadow duration-300 hover:shadow-[0_0_50px_10px_rgba(90,0,98,0.8)]' 
+        className='hero-img rounded-full  border border-purple-300/20  transition-shadow duration-300 hover:shadow-[0_0_50px_10px_rgba(90,0,98,0.8)]' 
       />
     </section>
   )
