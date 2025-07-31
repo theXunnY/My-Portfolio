@@ -54,14 +54,14 @@ const Contact = () => {
                 </a>
             </p>
             <div className='mt-8 flex justify-center space-x-6'>
-                <a href="/" className='contact-icon flex flex-col justify-center items-center '
+                <a href="https://www.linkedin.com/in/thesunnypawar16/" className='contact-icon flex flex-col justify-center items-center '
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='Visit My LinkedIn Profile'>
                     <RiLinkedinFill/>
                     LinkedIn
                 </a>
-                <a href="https://www.linkedin.com/in/thesunnypawar16/" className='contact-icon flex flex-col justify-center items-center '
+                <a href="https://github.com/theXunnY" className='contact-icon flex flex-col justify-center items-center '
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='Visit My GitHub Profile'>
