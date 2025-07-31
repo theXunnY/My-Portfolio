@@ -49,7 +49,7 @@ const Contact = () => {
             <h2 className=' contact-item mb-8 text-3xl font-medium lg:text-4xl'>Contact Me  </h2>
             <p className='contact-item mb-4 text-lg lg:text-xl'>
                 feel free to reachout to me via email : {" "}
-                <a href="mailto:sunnypawar358@gmail.com" className='border-b'>
+                <a href="mailto:thesunnypawar16@gmail.com" className='border-b'>
                 Contact Me
                 </a>
             </p>
@@ -61,7 +61,7 @@ const Contact = () => {
                     <RiLinkedinFill/>
                     LinkedIn
                 </a>
-                <a href="https://github.com/theXunnY" className='contact-icon flex flex-col justify-center items-center '
+                <a href="https://www.linkedin.com/in/thesunnypawar16/" className='contact-icon flex flex-col justify-center items-center '
                 target='_blank'
                 rel='noopener noreferrer'
                 aria-label='Visit My GitHub Profile'>

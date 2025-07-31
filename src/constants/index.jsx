@@ -5,6 +5,7 @@ import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
 import project7 from "../assets/project7.png";
+import project8 from "../assets/project8.png";
 
 import {
   RiHtml5Line,
@@ -37,6 +38,14 @@ export const PROFILE = {
 };
 
 export const PROJECTS = [
+  {
+    id: 8,
+    title: "Easy - PG (pg rental platform for students/employees)",
+    description: "PG is a rental platform designed for students and working professionals to easily find, book, and manage Paying Guest (PG) accommodations, offering a seamless experience for both tenants and property owners.",
+    techStack: ["Next.js", "Spring Boot", "Spring Security", "Tailwind","Zod", "JWT", "Postgresql"],
+    imgSrc: project8,
+    link: "https://easy-pg-frontend-pnu9.vercel.app/",
+  },
   {
     id: 1,
     title: "Role Based Access Control",
