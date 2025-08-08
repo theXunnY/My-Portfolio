@@ -6,7 +6,7 @@ import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
 import project7 from "../assets/project7.png";
 import project8 from "../assets/project8.png";
-
+import project9 from "../assets/project9.png";
 import {
   RiHtml5Line,
   RiCss3Line,
@@ -40,6 +40,14 @@ export const PROFILE = {
 };
 
 export const PROJECTS = [
+ {
+    id: 9,
+    title: "Wild Trap Pest Control (Freelanced Project)",
+    description: "Designed and developed a responsive website for Wild Trap Pest Control Ltd. using modern web technologies,	Implemented mobile-first design and ensured cross-browser compatibility for optimal user experience, Integrated contact forms and location-based service information to improve customer engagement ,Optimized site for local SEO, improving online visibility and search engine rankings",
+     techStack: ["Next.js", "Tailwind", "App Router","Zod"],
+    imgSrc: project9,
+    link: "https://www.wildtrappestcontrol.in/",
+  },
   {
     id: 8,
     title: "Easy - PG (pg rental platform for students/employees)",
